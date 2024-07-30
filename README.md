@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Hardik Garg, a passionate Web Developer with a strong interest in MERN stack. I enjoy working on diverse projects and exploring new technologies.
 
-- 🔭 I’m currently working on building Vs cdoe extension
+- 🔭 I’m currently working on building Vs code extension
 - 🌱 I’m currently learning Node js and Next Js.
 - 💼 I’m open to collaboration and job opportunities
 - 📫 How to reach me: https://www.linkedin.com/in/hardikgarg2002/
